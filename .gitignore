@@ -1,0 +1,15 @@
+.autodl
+.ipynb_checkpoints
+data
+DB14M-filtered
+huggingface
+
+tmp
+utils/*csv
+working/*csv
+*/*csv
+*/*pth
+
+working/exp/
+working/some weights
+working/pretrained_weights
